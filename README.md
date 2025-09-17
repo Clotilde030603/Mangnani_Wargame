@@ -18,7 +18,7 @@ By visiting this link, you can find detailed security measures and checklists re
 
 ## clone
 ```
-git clone "https://github.com/mangnani-bob24/Mangnani.git"
+git clone "https://github.com/Clotilde030603/Mangnani_Wargame.git"
 ```
 Go to the directory of the **scenario** you want to play.
 
