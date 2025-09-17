@@ -105,7 +105,7 @@
     
   - **Clone the Git Repository**
     ```bash
-    git clone https://github.com/mangnani-bob24/mang_wargame.git
+    git clone https://github.com/Clotilde030603/Mangnani_Wargame.git
     cd mang_wargame
     cd API
     ```
@@ -178,3 +178,4 @@ The attacker exploits security vulnerabilities in the API Gateway and S3 bucket 
 
 ## **Exploitation Route(s)**
 <img width="890" alt="API_Exploitation Route(s)" src="https://github.com/user-attachments/assets/bc003e4c-2587-4065-8c5e-127c5ef57c80" />
+
